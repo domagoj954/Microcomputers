@@ -1,0 +1,16 @@
+https://github.com/search?q=traffic+signs+video&type=Repositories
+https://stackoverflow.com/questions/62707558/importerror-cannot-import-name-adam-from-keras-optimizers --adam
+https://stackoverflow.com/questions/61262765/tensorflow-not-working-could-not-load-dynamic-library-nvcuda-dll-dlerror-nv  --nvcuda.dll
+https://stackoverflow.com/questions/30509573/writing-an-mp4-video-using-python-opencv --mp4
+https://stackoverflow.com/questions/68836551/keras-attributeerror-sequential-object-has-no-attribute-predict-classes --predict
+https://github.com/google-research/tf-slim --slim
+https://stackoverflow.com/questions/68640222/attributeerror-module-tensorflow-api-v2-train-has-no-attribute-rmspropoptim  --optimizers
+https://www.tensorflow.org/api_docs/python/tf/keras/optimizers --optimizers
+https://scikit-image.org/docs/0.16.x/release_notes_and_installation.html#api-changes --visualize
+https://stackoverflow.com/questions/32302180/typeerror-image-data-can-not-convert-to-float --path
+https://stackoverflow.com/questions/60509425/how-to-use-repeat-function-when-building-data-in-keras --model.fit()
+
+https://stackoverflow.com/questions/44054082/keras-utils-to-categorical-name-keras-not-defined --> to_categorical
+https://stackoverflow.com/questions/68836551/keras-attributeerror-sequential-object-has-no-attribute-predict-classes  --> predict
+
+

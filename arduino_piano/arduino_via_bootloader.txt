@@ -1,0 +1,2 @@
+C:\Users\domag\Desktop\arduino-1.8.19\hardware\tools\avr/bin/avrdude.exe
+-C"C:\Users\domag\Desktop\arduino-1.8.19\hardware\tools\avr/etc/avrdude.conf" -v -patmega328p -carduino -PCOM3 -b115200 -D -Uflash:w:"$(ProjectDir)Debug\$(TargetName).hex":i 
