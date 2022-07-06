@@ -2,7 +2,7 @@
  * arduino_piano.cpp
  *
  * Created: 26/12/2021 21:47:12
- * Author : Luka?i?, Ma?ek, Žuna
+ * Author : Domagoj
  */ 
 
 
